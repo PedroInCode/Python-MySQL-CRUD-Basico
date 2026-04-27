@@ -20,3 +20,7 @@ Para não esquecer a lógica da integração, organizei os principais comandos q
 3. Rode o script `01_criar_banco.py` primeiro para configurar o ambiente.
 4. Use o `02_inserir_usuario.py` para cadastrar dados via terminal (`input`).
 5. Visualize os resultados com o `03_listar_usuarios.py`.
+
+---
+
+> **Nota de Evolução:** Desenvolvi este projeto para entender os fundamentos de bancos de dados relacionais com Python. Atualmente, foco meus estudos em **C# e Entity Framework**, mas os conceitos de SQL e conexões que aprendi aqui foram a base para minha transição! 🚀
